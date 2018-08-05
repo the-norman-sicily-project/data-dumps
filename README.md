@@ -16,6 +16,28 @@ The [JSON-LD](https://www.w3.org/TR/json-ld/) format uses the
 
 Learn more about [five star linked open data](https://5stardata.info/en/)
 
+### 2018-08-05
+
+The data in this folder refers to Sicilian Monasteries of the Norman Period.
+This data contains records which may be missing location data.
+
+All the data in this folder is three star open data.
+![3 star open data](http://www.normansicily.org/images/data-badge-3.png)
+
+For a description of the fields used in the CSV and GeoJson formats, see
+the [Places Column Dictionary](./2018-08-05/places_column_dictionary/2080805.csv)
+
+The linked open data formats in this folder use version
+[0.4](http://www.normansicily.org/nsp/0.4) of the Norman Sicily Project
+Vocabulary.
+
+* [CSV](./2018-08-05/places-2080805.csv)
+* [GeoJSON](./2018-08-05/places-2080805.geojson)
+* [JSON-LD](./2018-08-05/places-2080805.jsonld)
+* [N3](./2018-08-05/places-riot-2080805.n3)
+* [RDF/XML](./2018-08-05/places-riot-2080805.rdfxml)
+* [TTL](./2018-08-05/places-riot-2080805.ttl)
+
 ### 2018-07-27
 
 The data in this folder refers to Sicilian Monasteries of the Norman Period.
