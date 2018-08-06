@@ -14,6 +14,10 @@ More information about the [GeoJSON format](https://tools.ietf.org/rfc/rfc7946.t
 The [JSON-LD](https://www.w3.org/TR/json-ld/) format uses the
 [GeoJSON-LD vocabulary](http://geojson.org/geojson-ld/vocab.html)
 
+Please note that the N3, RDF/XML and TTL versions of the data are generated from
+the JSON-LD version by the [Apache Jena](https://jena.apache.org/) [riot command
+line tool](https://jena.apache.org/documentation/io/#command-line-tools).
+
 Learn more about [five star linked open data](https://5stardata.info/en/)
 
 ### 2018-08-05
