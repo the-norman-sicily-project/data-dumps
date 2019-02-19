@@ -35,12 +35,12 @@ The linked open data formats in this folder use version
 [0.4](http://www.normansicily.org/nsp/0.4) of the Norman Sicily Project
 Vocabulary.
 
-* [CSV](./2018-08-05/places-2080805.csv)
-* [GeoJSON](./2018-08-05/places-2080805.geojson)
-* [JSON-LD](./2018-08-05/places-2080805.jsonld)
-* [N3](./2018-08-05/places-riot-2080805.n3)
-* [RDF/XML](./2018-08-05/places-riot-2080805.rdfxml)
-* [TTL](./2018-08-05/places-riot-2080805.ttl)
+* [CSV](./2018-08-05/places-20180805.csv)
+* [GeoJSON](./2018-08-05/places-20180805.geojson)
+* [JSON-LD](./2018-08-05/places-20180805.jsonld)
+* [N3](./2018-08-05/places-riot-20180805.n3)
+* [RDF/XML](./2018-08-05/places-riot-20180805.rdfxml)
+* [TTL](./2018-08-05/places-riot-20180805.ttl)
 
 ### 2018-07-27
 
