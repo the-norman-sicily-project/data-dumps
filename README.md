@@ -69,4 +69,4 @@ All data is released under the [Creative Commons Attribution Share Alike 4.0
 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-Copyright &copy; 2018, [The Norman Sicily Project](http://www.normansicily.org/)
+Copyright &copy; 2018-2019, [The Norman Sicily Project](http://www.normansicily.org/)
