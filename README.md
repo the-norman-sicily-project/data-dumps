@@ -20,6 +20,28 @@ line tool](https://jena.apache.org/documentation/io/#command-line-tools).
 
 Learn more about [five star linked open data](https://5stardata.info/en/)
 
+### 2019-03-10
+
+The data in this folder refers to Sicilian Monasteries of the Norman Period.
+This data contains records which may be missing location data.
+
+All the data in this folder is three star open data.
+![3 star open data](http://www.normansicily.org/images/data-badge-3.png)
+
+For a description of the fields used in the CSV and GeoJson formats, see
+the [Places Column Dictionary](./2019-03-10/places_column_dictionary_20190310.csv)
+
+The linked open data formats in this folder use version
+[0.4](http://www.normansicily.org/nsp/0.4) of the Norman Sicily Project
+Vocabulary.
+
+* [CSV](./2019-03-10/places-20190310.csv)
+* [GeoJSON](./2019-03-10/places-20190310.geojson)
+* [JSON-LD](./2019-03-10/places-20190310.jsonld)
+* [N3](./2019-03-10/places-riot-20190310.n3)
+* [RDF/XML](./2019-03-10/places-riot-20190310.rdfxml)
+* [TTL](./2019-03-10/places-riot-20190310.ttl)
+
 ### 2018-08-05
 
 The data in this folder refers to Sicilian Monasteries of the Norman Period.
@@ -29,7 +51,7 @@ All the data in this folder is three star open data.
 ![3 star open data](http://www.normansicily.org/images/data-badge-3.png)
 
 For a description of the fields used in the CSV and GeoJson formats, see
-the [Places Column Dictionary](./2018-08-05/places_column_dictionary/2080805.csv)
+the [Places Column Dictionary](./2018-08-05/places_column_dictionary_20180805.csv)
 
 The linked open data formats in this folder use version
 [0.4](http://www.normansicily.org/nsp/0.4) of the Norman Sicily Project
@@ -50,7 +72,7 @@ All the data in this folder is three star open data.
 ![3 star open data](http://www.normansicily.org/images/data-badge-3.png)
 
 For a description of the fields used in the CSV and GeoJson formats, see
-the [Places Column Dictionary](./2018-07-27/places_column_dictionary/20180727.csv)
+the [Places Column Dictionary](./2018-07-27/places_column_dictionary_20180727.csv)
 
 The linked open data formats in this folder use version
 [0.4](http://www.normansicily.org/nsp/0.4) of the Norman Sicily Project
