@@ -1,3 +1,9 @@
+# DEPRECATED!!!
+
+You can download the latest data from http://normansicily.org/en/resources/download/
+
+<hr>
+
 # Norman Sicily Project Data Dumps
 
 This repository is for data dumps for the
